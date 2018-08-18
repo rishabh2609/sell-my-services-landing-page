@@ -8,11 +8,26 @@ header {
   padding: 20px 20px 150px 20px;
 }
 
+.coming-soon-label {
+  border: 1px solid #ffffff;
+  padding: 10px;
+  max-width: 150px;
+}
+
 .pixel2-phone {
   transform: translate(0px, -100px);
 }
 
-.inline-list-icon {
+nav {
+  background-color: #8e24aa;
+}
+
+.inline-list-socio-icon, .inline-list-icon {
   display: inline;
-  margin: 5px;
+  margin: 15px;
+  font-size: 32px;
+}
+
+.inline-list-icon {
+  font-size: 64px;
 }
