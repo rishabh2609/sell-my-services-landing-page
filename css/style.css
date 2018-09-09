@@ -22,9 +22,8 @@ html {
 .fas{font-weight:900;}
 /*! CSS Used from: file://~/Desktop/github/sell-my-services-landing-page/css/materialize.min.css ; media=screen, projection */
 @media screen, projection{
-.purple{background-color:#9c27b0!important;}
-.purple.darken-1{background-color:#8e24aa!important;}
-.purple.darken-4{background-color:#4a148c!important;}
+.dark-blue{background:#2a3e95!important;}
+.light-blue{background:#3b4fb9!important;}
 .white-text{color:#fff!important;}
 body{margin:0;}
 footer,header{display:block;}
@@ -135,6 +134,6 @@ h6{font-size:1.15rem;line-height:110%;margin:.7666666667rem 0 .46rem 0;}
 body{overflow-x:hidden;width:100%;padding:0px;margin:0px;}
 header{padding:20px 20px 150px 20px;}
 #logo{vertical-align:middle;}
-.pixel2-phone{transform:translate(0px, -100px);}
+.pixel2-phone{transform:translate(0px, -100px);width:40%;border-radius:4%;border:3px solid;}
 .inline-list-icon{display:inline;margin:15px;font-size:32px;}
 .inline-list-icon{font-size:64px;}
